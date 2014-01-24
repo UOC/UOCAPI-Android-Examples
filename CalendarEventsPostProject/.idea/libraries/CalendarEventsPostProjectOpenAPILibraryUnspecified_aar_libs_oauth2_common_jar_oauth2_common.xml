@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CalendarEventsPostProjectOpenAPILibraryUnspecified.aar-libs-oauth2-common.jar-oauth2-common">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/calendareventspost/build/exploded-bundles/CalendarEventsPostProjectOpenAPILibraryUnspecified.aar/libs/oauth2-common.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

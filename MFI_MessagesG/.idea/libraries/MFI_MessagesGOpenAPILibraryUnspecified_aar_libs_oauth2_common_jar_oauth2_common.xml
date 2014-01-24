@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MFI_MessagesGOpenAPILibraryUnspecified.aar-libs-oauth2-common.jar-oauth2-common">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MFI_MessagesG/build/exploded-bundles/MFI_MessagesGOpenAPILibraryUnspecified.aar/libs/oauth2-common.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

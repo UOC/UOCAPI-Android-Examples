@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LoginUsingAPILibProjectOpenAPILibraryUnspecified.aar-libs-oauth2-client.jar-oauth2-client">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/LoginUsingAPILib/build/exploded-bundles/LoginUsingAPILibProjectOpenAPILibraryUnspecified.aar/libs/oauth2-client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

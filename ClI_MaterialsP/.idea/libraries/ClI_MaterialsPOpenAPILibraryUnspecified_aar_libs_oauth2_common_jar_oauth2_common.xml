@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ClI_MaterialsPOpenAPILibraryUnspecified.aar-libs-oauth2-common.jar-oauth2-common">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ClI_MaterialsP/build/exploded-bundles/ClI_MaterialsPOpenAPILibraryUnspecified.aar/libs/oauth2-common.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClIBIFIMI_Body.iml" filepath="$PROJECT_DIR$/ClIBIFIMI_Body.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClIBIFIMI_Body/ClIBIFIMI_Body-ClIBIFIMI_Body.iml" filepath="$PROJECT_DIR$/ClIBIFIMI_Body/ClIBIFIMI_Body-ClIBIFIMI_Body.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpenAPILibrary/OpenAPILibrary.iml" filepath="$PROJECT_DIR$/OpenAPILibrary/OpenAPILibrary.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ClIBI_Message_IGOpenAPILibraryUnspecified.aar-libs-gson-2.2.2.jar-gson-2.2.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ClIBI_Message_IG/build/exploded-bundles/ClIBI_Message_IGOpenAPILibraryUnspecified.aar/libs/gson-2.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

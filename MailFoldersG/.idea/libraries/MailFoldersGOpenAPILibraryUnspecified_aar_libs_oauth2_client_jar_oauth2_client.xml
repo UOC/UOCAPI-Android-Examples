@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MailFoldersGOpenAPILibraryUnspecified.aar-libs-oauth2-client.jar-oauth2-client">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MailFoldersG/build/exploded-bundles/MailFoldersGOpenAPILibraryUnspecified.aar/libs/oauth2-client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

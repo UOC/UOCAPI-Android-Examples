@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CalendarEventsPostProject.iml" filepath="$PROJECT_DIR$/CalendarEventsPostProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpenAPILibrary/OpenAPILibrary.iml" filepath="$PROJECT_DIR$/OpenAPILibrary/OpenAPILibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calendareventspost/calendareventspost.iml" filepath="$PROJECT_DIR$/calendareventspost/calendareventspost.iml" />
+    </modules>
+  </component>
+</project>
+

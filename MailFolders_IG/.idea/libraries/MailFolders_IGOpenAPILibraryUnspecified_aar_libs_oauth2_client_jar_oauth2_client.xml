@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MailFolders_IGOpenAPILibraryUnspecified.aar-libs-oauth2-client.jar-oauth2-client">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MailFolders_IG/build/exploded-bundles/MailFolders_IGOpenAPILibraryUnspecified.aar/libs/oauth2-client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

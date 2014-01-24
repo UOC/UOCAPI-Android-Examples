@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ClI_MaterialsGOpenAPILibraryUnspecified.aar-libs-oauth2-client.jar-oauth2-client">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ClI_MaterialsG/build/exploded-bundles/ClI_MaterialsGOpenAPILibraryUnspecified.aar/libs/oauth2-client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

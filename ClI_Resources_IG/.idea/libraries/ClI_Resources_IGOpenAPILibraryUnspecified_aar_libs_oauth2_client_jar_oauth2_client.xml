@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ClI_Resources_IGOpenAPILibraryUnspecified.aar-libs-oauth2-client.jar-oauth2-client">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ClI_Resources_IG/build/exploded-bundles/ClI_Resources_IGOpenAPILibraryUnspecified.aar/libs/oauth2-client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
