@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MMI_HistoryGOpenAPILibraryUnspecified.aar-libs-oauth2-client.jar-oauth2-client">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MMI_HistoryG/build/exploded-bundles/MMI_HistoryGOpenAPILibraryUnspecified.aar/libs/oauth2-client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OpenAPILibrary/OpenAPILibrary.iml" filepath="$PROJECT_DIR$/OpenAPILibrary/OpenAPILibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PeopleG.iml" filepath="$PROJECT_DIR$/PeopleG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PeopleG/PeopleG-PeopleG.iml" filepath="$PROJECT_DIR$/PeopleG/PeopleG-PeopleG.iml" />
+    </modules>
+  </component>
+</project>
+
