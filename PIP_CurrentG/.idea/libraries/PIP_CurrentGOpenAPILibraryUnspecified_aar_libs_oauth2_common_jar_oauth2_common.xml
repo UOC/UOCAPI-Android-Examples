@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PIP_CurrentGOpenAPILibraryUnspecified.aar-libs-oauth2-common.jar-oauth2-common">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PIP_CurrentG/build/exploded-bundles/PIP_CurrentGOpenAPILibraryUnspecified.aar/libs/oauth2-common.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

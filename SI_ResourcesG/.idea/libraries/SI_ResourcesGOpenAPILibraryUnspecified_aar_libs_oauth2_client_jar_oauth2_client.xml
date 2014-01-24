@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SI_ResourcesGOpenAPILibraryUnspecified.aar-libs-oauth2-client.jar-oauth2-client">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SI_ResourcesG/build/exploded-bundles/SI_ResourcesGOpenAPILibraryUnspecified.aar/libs/oauth2-client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

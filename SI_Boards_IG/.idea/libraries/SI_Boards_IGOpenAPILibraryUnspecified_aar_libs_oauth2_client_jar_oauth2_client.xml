@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SI_Boards_IGOpenAPILibraryUnspecified.aar-libs-oauth2-client.jar-oauth2-client">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SI_Boards_IG/build/exploded-bundles/SI_Boards_IGOpenAPILibraryUnspecified.aar/libs/oauth2-client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
