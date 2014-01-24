@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SIBI_Messages_IGOpenAPILibraryUnspecified.aar-libs-oauth2-common.jar-oauth2-common">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SIBI_Messages_IG/build/exploded-bundles/SIBI_Messages_IGOpenAPILibraryUnspecified.aar/libs/oauth2-common.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
