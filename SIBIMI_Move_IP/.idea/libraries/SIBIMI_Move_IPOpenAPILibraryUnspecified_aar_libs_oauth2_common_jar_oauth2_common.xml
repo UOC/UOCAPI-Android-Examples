@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SIBIMI_Move_IPOpenAPILibraryUnspecified.aar-libs-oauth2-common.jar-oauth2-common">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SIBIMI_Move_IP/build/exploded-bundles/SIBIMI_Move_IPOpenAPILibraryUnspecified.aar/libs/oauth2-common.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
