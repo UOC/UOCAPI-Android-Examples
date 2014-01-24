@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MFIMI_Move_IPOpenAPILibraryUnspecified.aar-libs-oauth2-common.jar-oauth2-common">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MFIMI_Move_IP/build/exploded-bundles/MFIMI_Move_IPOpenAPILibraryUnspecified.aar/libs/oauth2-common.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

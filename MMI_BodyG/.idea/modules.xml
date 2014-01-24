@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MMI_BodyG.iml" filepath="$PROJECT_DIR$/MMI_BodyG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MMI_BodyG/MMI_BodyG-MMI_BodyG.iml" filepath="$PROJECT_DIR$/MMI_BodyG/MMI_BodyG-MMI_BodyG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpenAPILibrary/OpenAPILibrary.iml" filepath="$PROJECT_DIR$/OpenAPILibrary/OpenAPILibrary.iml" />
+    </modules>
+  </component>
+</project>
+
