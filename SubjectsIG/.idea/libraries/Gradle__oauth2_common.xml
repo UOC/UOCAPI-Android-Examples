@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: oauth2-common">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SubjectsIG/build/exploded-bundles/SubjectsIGOpenAPILibraryUnspecified.aar/libs/oauth2-common.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -10,20 +10,6 @@ import android.widget.Button;
 import com.uoc.openapilibrary.LoginActivity;
 
 public class MainActivity extends LoginActivity {
-    Button Login;
-    @Override
-    public void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(com.uoc.sibifim_unreadg.R.layout.activity_main);
-        Login = (Button) findViewById(com.uoc.sibifim_unreadg.R.id.btnLogin);
-        Login.setOnClickListener(new View.OnClickListener() {
-
-            public void onClick(View v) {
-                Login();
-            }
-        });
-    }
-
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(com.uoc.sibifim_unreadg.R.menu.activity_main, menu);
@@ -32,12 +18,8 @@ public class MainActivity extends LoginActivity {
 
     @Override
     public Intent NextActivityIntent() {
-        Log.v("INTENT", "Creando intent");
+        Log.v("INTENTMAIN", "Creando intent");
         return new Intent (this, GetClassroomsActivity.class);
-    }
-    private void Login() {
-        //Por el context
-        IniciarLogin();
     }
 
 

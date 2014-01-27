@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="SIBIFI_MessagesGOpenAPILibraryUnspecified.aar-libs-oauth2-common.jar-oauth2-common">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/SIBIFI_MessagesG/build/exploded-bundles/SIBIFI_MessagesGOpenAPILibraryUnspecified.aar/libs/oauth2-common.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
