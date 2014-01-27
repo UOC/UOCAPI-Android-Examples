@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="MMI_BodyGOpenAPILibraryUnspecified.aar-libs-oauth2-client.jar-oauth2-client">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/MMI_BodyG/build/exploded-bundles/MMI_BodyGOpenAPILibraryUnspecified.aar/libs/oauth2-client.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

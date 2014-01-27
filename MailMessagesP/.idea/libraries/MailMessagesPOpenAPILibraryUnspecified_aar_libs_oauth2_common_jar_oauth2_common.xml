@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="MailMessagesPOpenAPILibraryUnspecified.aar-libs-oauth2-common.jar-oauth2-common">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/MailMessagesP/build/exploded-bundles/MailMessagesPOpenAPILibraryUnspecified.aar/libs/oauth2-common.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
