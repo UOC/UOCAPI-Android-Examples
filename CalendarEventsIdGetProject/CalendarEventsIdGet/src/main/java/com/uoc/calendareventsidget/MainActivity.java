@@ -22,6 +22,3 @@ public class MainActivity extends LoginActivity {
         return new Intent (this, GetEventsActivity.class);
     }
 }
-
-
-}

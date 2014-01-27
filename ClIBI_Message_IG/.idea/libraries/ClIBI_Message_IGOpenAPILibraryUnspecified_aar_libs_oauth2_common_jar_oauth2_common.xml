@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="ClIBI_Message_IGOpenAPILibraryUnspecified.aar-libs-oauth2-common.jar-oauth2-common">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/ClIBI_Message_IG/build/exploded-bundles/ClIBI_Message_IGOpenAPILibraryUnspecified.aar/libs/oauth2-common.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="M_MessagesGOpenAPILibraryUnspecified.aar-libs-oauth2-common.jar-oauth2-common">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/M_MessagesG/build/exploded-bundles/M_MessagesGOpenAPILibraryUnspecified.aar/libs/oauth2-common.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
