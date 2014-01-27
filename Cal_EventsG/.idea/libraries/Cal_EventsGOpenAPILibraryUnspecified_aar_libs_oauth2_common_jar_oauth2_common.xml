@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Cal_EventsGOpenAPILibraryUnspecified.aar-libs-oauth2-common.jar-oauth2-common">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/Cal_EventsG/build/exploded-bundles/Cal_EventsGOpenAPILibraryUnspecified.aar/libs/oauth2-common.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

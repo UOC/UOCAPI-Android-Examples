@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="jettison-1.2">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/OpenAPILibrary/libs/jettison-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Cl_Materials_IG/build/exploded-bundles/Cl_Materials_IGOpenAPILibraryUnspecified.aar/libs/jettison-1.2.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

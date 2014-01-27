@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Cl_Materials_IGOpenAPILibraryUnspecified.aar-libs-oauth2-common.jar-oauth2-common">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/Cl_Materials_IG/build/exploded-bundles/Cl_Materials_IGOpenAPILibraryUnspecified.aar/libs/oauth2-common.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
