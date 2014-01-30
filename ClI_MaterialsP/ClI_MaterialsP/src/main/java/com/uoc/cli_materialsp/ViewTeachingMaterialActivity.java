@@ -23,6 +23,7 @@ import org.apache.http.client.HttpClient;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.entity.StringEntity;
 import org.apache.http.impl.client.DefaultHttpClient;
+import org.apache.http.protocol.HTTP;
 import org.apache.http.util.EntityUtils;
 
 public class ViewTeachingMaterialActivity extends Activity{
@@ -72,6 +73,7 @@ public class ViewTeachingMaterialActivity extends Activity{
             String tmaux;
             HttpClient httpClient = new DefaultHttpClient();
             HttpPost httpPost = new HttpPost("http://oslo.uoc.es:8080/webapps/uocapi/api/v1/classrooms/"+Cid+"/materials" +"?access_token="+ Utils.getToken());
+            httpPost.setHeader("content-type", "application/json");
             try {
                 StringEntity entity = new StringEntity(new Gson().toJson(tm));
                 httpPost.setEntity(entity);
@@ -98,10 +100,10 @@ public class ViewTeachingMaterialActivity extends Activity{
         // Handle item selection
         switch (item.getItemId()) {
             case R.id.menu_send:
-                tm.setId("123456789999");
-                tm.setTitle("Random title");
-                tm.setType("Random type");
-                tm.setUrl("Random url");
+                tm.setId("545844");
+                tm.setTitle("WKGRP_FO");
+                tm.setType("Conversation");
+                tm.setUrl("www.google.es");
                 Intent myIntent= getIntent();
                 Cid = myIntent.getStringExtra("CID");
                 new NewMaterialTask().execute();
