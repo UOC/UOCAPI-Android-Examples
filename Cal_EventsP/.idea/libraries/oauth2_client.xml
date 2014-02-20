@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="oauth2-client">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Cal_EventsP/build/exploded-bundles/Cal_EventsPOpenAPILibraryUnspecified.aar/libs/oauth2-client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
