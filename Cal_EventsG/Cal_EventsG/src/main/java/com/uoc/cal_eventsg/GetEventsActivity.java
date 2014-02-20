@@ -66,7 +66,6 @@ public class GetEventsActivity extends Activity {
         protected void onPostExecute(EventList result) {
             if (result != null) {
                 ArrayList<Event> aux = result.getEvents();
-                Log.v("RESULT", aux.get(0).getUrl());
                 listE = aux;
                 for (int i = 0; i < aux.size(); ++i) {
                     list.add(aux.get(i).getSummary());

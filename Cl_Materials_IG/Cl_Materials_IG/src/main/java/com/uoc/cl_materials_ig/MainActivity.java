@@ -20,7 +20,6 @@ public class MainActivity extends LoginActivity {
 
     @Override
     public Intent NextActivityIntent() {
-        Log.v("INTENTMAIN", "Creando intent");
         return new Intent (this, GetClassroomsActivity.class);
     }
 
