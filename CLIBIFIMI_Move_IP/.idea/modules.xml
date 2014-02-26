@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CLIBIFIMI_Move_IP.iml" filepath="$PROJECT_DIR$/CLIBIFIMI_Move_IP.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CLIBIFIMI_Move_IP/CLIBIFIMI_Move_IP-CLIBIFIMI_Move_IP.iml" filepath="$PROJECT_DIR$/CLIBIFIMI_Move_IP/CLIBIFIMI_Move_IP-CLIBIFIMI_Move_IP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClIBIFIMI_Move_IP.iml" filepath="$PROJECT_DIR$/ClIBIFIMI_Move_IP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClIBIFIMI_Move_IP/ClIBIFIMI_Move_IP-ClIBIFIMI_Move_IP.iml" filepath="$PROJECT_DIR$/ClIBIFIMI_Move_IP/ClIBIFIMI_Move_IP-ClIBIFIMI_Move_IP.iml" />
       <module fileurl="file://$PROJECT_DIR$/OpenAPILibrary/OpenAPILibrary.iml" filepath="$PROJECT_DIR$/OpenAPILibrary/OpenAPILibrary.iml" />
     </modules>
   </component>

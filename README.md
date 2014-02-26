@@ -19,10 +19,10 @@ If you were to look at our iOS examples, you will note that most examples are na
 * <b>S: </b>Subjects.
 * <b>U: </b>User.
 * <b>I: </b>Id.
-* <b>G:: </b>Get.
-* <b>P at the end of a project name: </b>Post.
+* <b>G: </b>Get.
+* <b>P at the end of a project name: </b>Post or Put.
 
 For example, following this list, the example of a Get to .../people/{id}/profile/current is called PIP_CurrentG.
 
-Note that al examples use our example of an Android library ("OpenAPILibrary"), but all representative calls of each example (the one that gives his name to the example) are completely independent.
+Note that al examples use our example of an Android library, "OpenAPILibrary", except representative calls of each example (the one that gives his name to the example).
 
